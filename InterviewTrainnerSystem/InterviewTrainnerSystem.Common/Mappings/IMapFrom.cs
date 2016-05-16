@@ -1,4 +1,4 @@
-﻿namespace Snippets.Common.Mappings
+﻿namespace InterviewTrainnerSystem.Common.Mappings
 {
     public interface IMapFrom<T>
     {

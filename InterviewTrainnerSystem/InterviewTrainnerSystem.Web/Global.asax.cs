@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
-using Snippets.Common.Mappings;
+using InterviewTrainnerSystem.Common.Mappings;
 
 namespace InterviewTrainnerSystem.Web
 {

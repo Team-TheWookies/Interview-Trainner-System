@@ -1,4 +1,4 @@
-﻿namespace Snippets.Common.Mappings
+﻿namespace InterviewTrainnerSystem.Common.Mappings
 {
     using System;
     using System.Collections.Generic;
